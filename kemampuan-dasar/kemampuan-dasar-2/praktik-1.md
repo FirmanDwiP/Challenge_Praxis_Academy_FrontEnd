@@ -1,3 +1,15 @@
+## Buat Folder
+mkdir contoh
+cd contoh
+
+### lanhgkah pertama:
+**git init** 
+
+### buat readme
+*git add README.txt* 
+git commit -m 'First commit.' 
+
+----------------------------------------------------------------------------------
 Percobaan  **bold** penggunaan *italic*  Markdown. Dengan link [link to Google!](http://google.com
 
 # h1 <h1> tag
