@@ -1,0 +1,20 @@
+1. date /t 			--> Mengetahui Tanggal berapa sekarang
+2. pause			--> Menghentikan sementara aktivitas
+3. ping google.com		--> Cek koneksi ke Google.com
+4. nslookup			--> Melihat alamat IP
+5. tasklist			--> Daftar menjalankan aplikasi dan services
+6. title hai			--> Mengatur judul window untuk sesi cmd.exe menjadi hai
+7. cmd				--> Memulai cmd Shell baru
+8. echo yuhuu			--> Menampilkan pesan di layar dengan text "yuhuu"
+9. help				--> Menampilkan beberapa perintah cmd
+10. ipconfig			--> Untuk melihat ip address, Gateway, DNS Server dll
+11. ver				--> Tampilkan versi Informasi
+12. md				--> Membuat suatu folder
+13. perfmon /res		--> Melihat Resource View
+14. perfmon /report		--> Mulai Atur Pengumpul Data Diagnostik Sistem dan tampilkan laporan hasil kinerja monito
+15. perfmon /rel		--> Melihat problem dan bbrp masalah kinerja monitor
+16. time			--> Menampilkan atau mengatur jam sekarang
+17. mkdir			--> Membuat suatu direktory(folder)
+18. PowerShell.exe -help	--> Menampilkan beberapa perintah untuk Powe Shell
+19. PowerShell.exe -NoProfile	--> Memulai Powe Shell didalam cmd
+20. time /t			--> Melihat jam berapa sekarang
